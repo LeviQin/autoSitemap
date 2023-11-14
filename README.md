@@ -4,5 +4,5 @@
 
 ### 使用
 ```none
-将代码中的https://leviqin.top 改为自己的地址即可
+const sitemap = new SitemapStream({ hostname: 'https://leviqin.top' }); // 将代码中的https://leviqin.top 改为自己的地址即可
 ```
